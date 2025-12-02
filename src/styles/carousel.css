@@ -1,0 +1,25 @@
+.carousel {
+  width: 100%;
+  height: 400px;
+  margin-top: 30px;
+  padding: 30px;
+}
+.carousel-control-next {
+  top: 30px;
+  max-height: 350px;
+}
+.carousel-control-prev {
+  top: 30px;
+  max-height: 350px;
+}
+.carousel-indicators button {
+  background-color: black !important;
+}
+.carousel-item {
+  height: 500px;
+}
+.carousel-inner {
+  border-radius: 30px;
+  max-height: 300px;
+  border: 1px solid black;
+}
